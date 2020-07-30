@@ -1,2 +1,4 @@
-# all-trails
-Exploration of All Trails data
+# All Trails
+Exploration of alltrails.com data - National Park Trails
+
+Data obtained from Kaggle.com
